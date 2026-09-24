@@ -1,1 +1,1 @@
-# Lab 2 - DevOps
+# Lab 2 - Main branch
